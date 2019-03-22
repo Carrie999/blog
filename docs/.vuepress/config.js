@@ -75,7 +75,7 @@ module.exports = {
 			    title: 'JS基础',
 			    collapsable: false,
 			    children: [
-		           '','/base/two','/base/three','/base/four','/base/five'
+		           '','/base/two','/base/three','/base/four','/base/five','/base/six'
 		        ]
 		    }],
 		    '/webpack/': [{
@@ -89,7 +89,7 @@ module.exports = {
 			    title: 'koa源码解析',
 			    collapsable: false,
 			    children: [
-		           '',
+		           '','/node/koa','/node/koa-router'
 		        ]
 		    }],
 		    '/interview/': [{
